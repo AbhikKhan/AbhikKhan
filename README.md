@@ -1,6 +1,4 @@
-<h1>GitHub Profile</h1>
-
-<p>Hello, and welcome to my GitHub profile! 👋</p>
+<h2>Hello, and welcome to my GitHub profile! 👋</h2>
 
   <h2>About Me</h2>
   <ul>
