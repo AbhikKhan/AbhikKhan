@@ -2,7 +2,7 @@
 
   <h2>About Me</h2>
   <ul>
-      <li>🎓 <strong>Education:</strong> Currently studying M.Tech in Computer Science and Engineering at IIT Guwahati.</li>
+      <li>🎓 <strong>Education:</strong> Completed M.Tech in Computer Science and Engineering at IIT Guwahati.</li>
       <li>🪙 <strong>Competitive Programming:</strong> Currently I'm <strong>Knight</strong> at LeetCode, but stay tuned for more.</li>
     <li>💡 <strong>Skills:</strong> 
         <p align="left"> 
